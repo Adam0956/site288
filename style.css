@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    border: solid aqua 5px;
+    border-radius:15px;
+    padding:5px;
+    
+}
+header a{
+    background-color:white;
+    border:solid white 5px;
+    border-radius:10px;
+    text-decoration: none;
+}
+h1{
+  color:orange; 
+}
+footer p{
+    background-color:greenyellow;
+}
+#contacts{
+    padding-left:30px;
+}
+nav a{
+   margin:15px;
+   text-decoration:none;
+   padding:5px;
+   border:3px solid navy;
+   border-radius:10px;
+   color:white;
+   background-color:navy;
+   font-size:20px
+}
+nav{
+   margin-top:25px;
+}
+.xlopuschka{
+    background-color:brown;
+    padding:5px;
+    border:brown 2px solid;
+    border-radius:10px;
+    color:white;
+}
+main p{
+   color:blue;
+}
